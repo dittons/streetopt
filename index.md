@@ -6,7 +6,8 @@ It can be used to understand where alternative route choices could have been mad
 ### Introduction
 
 Steet-O is an informal form of orienteering usually run in urban enviroments, often taking place in winter evenings.
-A number of orienteering clubs run Street-O series.
+A number of orienteering clubs run Street-O events or series.
+
 e.g.
 - [South London Orienteers](https://slow.org.uk/about/streeto/)
 - [Mole Valley Orienteering Club](http://www.mvoc.org/)
