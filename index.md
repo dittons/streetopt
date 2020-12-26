@@ -1,8 +1,7 @@
 ## Street-O Optimiser
 
-You can use the [editor on GitHub](https://github.com/dittons/streetopt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Street-O Optimiser is a program designed for post-event analysis of Street-O routes and results.
+It can be used to understand where alternative route choices could have been made to improve scores.
 
 ### Markdown
 
